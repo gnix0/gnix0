@@ -4,7 +4,7 @@
 
 - Backend Development
 - Software Architecture & Systems Design
-- Linux/Unix-like Systems Programming
+- Data Structures & Algorithms
 - Computer Networks, Operating Systems & Database Engineering
 
 ---

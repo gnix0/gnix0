@@ -9,7 +9,7 @@
 
 ---
 
-## Techs
+## Technologies
 
 #### Hyperfocus
 

@@ -19,4 +19,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,rabbitmq,kafka,githubactions,gitlab)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postgres,mongodb,redis,gcp,aws,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postgres,cassandra,mongodb,redis,gcp,aws)](https://skillicons.dev)

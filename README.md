@@ -2,10 +2,10 @@
 
 ## Interests
 
-- Backend Development
-- Software Architecture & Systems Design
-- Data Structures & Algorithms
-- Computer Networks, Operating Systems & Database Engineering
+- Linux kernel development and general embedded systems programming
+- Backend development and software architecture
+- Data Structures and algorithms
+- Computer networks, operating systems, and database engineering
 
 ---
 

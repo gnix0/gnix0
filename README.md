@@ -13,10 +13,10 @@
 
 #### Hyperfocus
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,arch,c,cpp,rust,go,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,arch,c,cpp,go,docker,kubernetes)](https://skillicons.dev)
 
 #### Other Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,ruby,rails,rabbitmq,kafka,githubactions,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ruby,rabbitmq,kafka,githubactions,gitlab,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postgres,cassandra,mongodb,lua,redis,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,cassandra,mongodb,lua,redis,gcp,aws)](https://skillicons.dev)

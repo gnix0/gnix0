@@ -1,4 +1,4 @@
-# Hi there 👋! I'm Gustavo, welcome to my profile!
+# Hey there 👋! Welcome to my profile!
 
 ## Interests
 

@@ -27,8 +27,11 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 #### Hyperfocus
 
-[![My Skills](https://skillicons.dev/icons?i=bsd,neovim,linux,c,rust,go,ruby,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,arch,linux,c,rust)](https://skillicons.dev)
 
-#### Other Languages & Tools
+#### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,postgres,cassandra,mongodb,redis,rabbitmq,kafka,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ruby,go)](https://skillicons.dev)
+
+#### Other tools
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,postgres,cassandra,mongodb,redis,rabbitmq,kafka,git)](https://skillicons.dev)

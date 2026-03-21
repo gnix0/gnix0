@@ -33,4 +33,4 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,java,spring)](https://skillicons.dev)
 
 #### Infra
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,bash,terraform,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,jenkins)](https://skillicons.dev)

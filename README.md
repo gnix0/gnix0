@@ -26,11 +26,13 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 #### Hyprfocus
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,arch,linux,c,elixir)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,arch,linux,c)](https://skillicons.dev)
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,kotlin)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,redux,tailwind)](https://skillicons.dev)
 
 #### Infra
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws)](https://skillicons.dev)

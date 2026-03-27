@@ -16,13 +16,13 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 ## Main interests
 
-Software Architecture & Systems Design
+* Software Architecture & Systems Design
 
-Backend Development
+* Backend Development
 
-Data Structures and Algorithms
+* Data Structures and Algorithms
 
-Mathematics (Abstract Algebra and Real Analysis)
+* Mathematics (Abstract Algebra and Real Analysis)
 
 ---
 
@@ -36,4 +36,12 @@ Mathematics (Abstract Algebra and Real Analysis)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp,aws)](https://skillicons.dev)
 
+</div>
+
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/gustavoarantes.dev-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://gustavoarantes.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgustavoa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arantes.gustavoo)
 </div>

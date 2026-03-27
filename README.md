@@ -5,7 +5,7 @@ My name is Gustavo, I'm a software engineer based in Brazil 🇧🇷.
 I'm currently working as a full-time backend developer (mid-level), focusing on the design and implementation of  
 new software solutions, as well as maintaining and modernizing existing products.
 
-I am also actively contributing to the Linux kernel and looking for other cool open-source projects
+I have also been contributing actively to the Linux kernel and looking for other cool open-source projects
 to contribute to.
 
 > [Example thread](https://lkml.org/lkml/2026/3/12/2068) (so you know how to find me 🙃).
@@ -16,23 +16,24 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 ## Main interests
 
-- Linux kernel development and general embedded systems programming
-- Software architecture and backend development
-- Mathematics (Abstract Algebra and Real Analysis)
+Software Architecture & Systems Design
+
+Backend Development
+
+Data Structures and Algorithms
+
+Mathematics (Abstract Algebra and Real Analysis)
 
 ---
 
-## Technologies
+<div align="center">
 
-#### Hyprfocus
+<h2>Techs</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,arch,linux,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,rust,elixir)](https://skillicons.dev)
 
-#### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,redux,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,redux,tailwind)](https://skillicons.dev)
-
-#### Infra
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws)](https://skillicons.dev)
+</div>

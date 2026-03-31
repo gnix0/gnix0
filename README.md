@@ -32,8 +32,6 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,go,rust,elixir)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,redux,tailwind)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp,aws)](https://skillicons.dev)
 
 </div>
@@ -42,5 +40,6 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/gustavoarantes.dev-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://gustavoarantes.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgustavoa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arantes.gustavoo)
 </div>

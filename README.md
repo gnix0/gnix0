@@ -18,7 +18,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 * Software Architecture & Systems Design
 
-* Backend Development & DevOps
+* Backend Development & DevSecOps
 
 * Cybersecurity
 

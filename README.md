@@ -30,9 +30,9 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <h2>Techs</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,rust,elixir)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,elixir,kubernetes)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,ansible,terraform,gcp,aws)](https://skillicons.dev)
 
 </div>
 

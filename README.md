@@ -1,6 +1,6 @@
 # Hey there 👋! Welcome to my profile!
 
-My name is Gustavo, I'm a software engineer based in Brazil 🇧🇷.
+My name is Gustavo, I'm a software engineer based in Brazil.
 
 I'm currently working as a full-time backend developer (mid-level), focusing on the design and implementation of  
 new software solutions, as well as maintaining and modernizing existing products.
@@ -20,8 +20,6 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 * Backend Development & DevSecOps
 
-* Cybersecurity
-
 * Mathematics (Abstract Algebra and Real Analysis)
 
 ---
@@ -30,9 +28,9 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <h2>Techs</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,elixir,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,typescript,elixir)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ansible,terraform,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,ansible,terraform,aws)](https://skillicons.dev)
 
 </div>
 

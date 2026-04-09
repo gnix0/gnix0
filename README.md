@@ -26,7 +26,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <div align="center">
 
-<h2>Techs</h2>
+<h2>Techs & Stats</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,go,rust,typescript)](https://skillicons.dev)
 
@@ -37,7 +37,18 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gnix0&layout=compact&theme=gotham)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gnix0&theme=gotham)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+  
 [![Blog](https://img.shields.io/badge/gustavoarantes.dev-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://gustavoarantes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgustavoa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arantes.gustavoo)
+
 </div>

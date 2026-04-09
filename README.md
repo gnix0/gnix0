@@ -28,7 +28,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <h2>Techs</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,typescript,elixir)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,rust,typescript)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,ansible,terraform,aws)](https://skillicons.dev)
 

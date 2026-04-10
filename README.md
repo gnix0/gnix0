@@ -1,5 +1,4 @@
 # Hey there 👋! Welcome to my profile!
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
 My name is Gustavo, I'm a software engineer based in Brazil.
 
@@ -16,6 +15,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ---
 
 ## Main interests
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
 * Software Architecture & Systems Design
 

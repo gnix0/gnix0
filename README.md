@@ -17,11 +17,11 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ## Main interests
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
-* Distributed Systems
+* Systems Programming & Embedded Systems
 
-* Software Architecture & Systems Design
+* Software Architecture
 
-* Backend Development & DevSecOps
+* Backend Development
 
 ---
 
@@ -29,7 +29,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <h2>Techs & Stats</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,java,spring,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,rust,java,spring)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,terraform,lua)](https://skillicons.dev)
 

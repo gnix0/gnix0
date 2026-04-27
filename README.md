@@ -5,8 +5,7 @@ My name is Gustavo, I'm a software engineer based in Brazil.
 I'm currently working as a full-time backend developer (mid-level), focusing on the design and implementation of  
 new software solutions, as well as maintaining and modernizing existing products.
 
-I have also been contributing actively to the Linux kernel and looking for other cool open-source projects
-to contribute to.
+I have also been contributing actively to the Linux kernel among other open-source projects, such as Google's gVisor and go-containerregistry!
 
 > [Example thread](https://lkml.org/lkml/2026/3/12/2068) (so you know how to find me 🙃).
 

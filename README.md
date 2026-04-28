@@ -14,7 +14,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ## Main interests
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
-* Systems Programming & Embedded Systems
+* Systems Programming & Embedded Devices
 
 * Software Architecture
 

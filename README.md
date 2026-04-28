@@ -26,7 +26,9 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <h2>Techs & Stats</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,neovim,c)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,rust,java,spring)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,terraform,lua)](https://skillicons.dev)
 

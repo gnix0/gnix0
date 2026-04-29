@@ -26,20 +26,16 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <h2>Techs & Stats</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,neovim,go)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,spring)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,aws,terraform,lua,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,neovim,go,c,cpp,rust,java,spring,kubernetes,docker,gcp,aws,terraform,lua,git)](https://skillicons.dev)
 
 </div>
 
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gnix0&layout=compact&theme=gotham)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gnix0&theme=gotham)](https://git.io/streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gnix0&layout=compact&theme=gotham)
 
 </div>
 

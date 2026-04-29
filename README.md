@@ -33,9 +33,9 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gnix0&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gnix0&theme=rose-pine)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gnix0&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gnix0&layout=compact&theme=rose_pine)
 
 </div>
 

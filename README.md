@@ -2,11 +2,6 @@
 
 My name is Gustavo, I'm a software engineer based in Brazil.
 
-I'm currently working as a full-time backend developer (mid-level), focusing on the design and implementation of  
-new software solutions, as well as maintaining and modernizing existing products.
-
-I have also been contributing actively to open-source projects, such as Google's gVisor and go-containerregistry!
-
 Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss ideas!
 
 ---

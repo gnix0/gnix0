@@ -9,9 +9,9 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ## Main interests
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
-* Systems Programming & Embedded Devices
+* Distributes Systems & Software Architecture
 
-* Software Architecture
+* System-Level Programming & Embedded Devices
 
 * Backend Development
 
@@ -24,8 +24,8 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
     <tr style="border: none;">
       <td align="center" style="border: none;">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=arch,neovim,go,rust" /><br>
-          <img src="https://skillicons.dev/icons?i=c,cpp,java,lua" /><br>
+          <img src="https://skillicons.dev/icons?i=arch,neovim,cpp" /><br>
+          <img src="https://skillicons.dev/icons?i=go,java,rust,c" /><br>
           <img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,aws" />
         </a>
       </td>

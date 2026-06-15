@@ -1,6 +1,6 @@
 # Hey there 👋! Welcome to my profile!
 
-My name is Gustavo, I'm a software engineer based in Brazil.
+I'm Gustavo, a 23yo software engineer based in Brazil 🇧🇷
 
 Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss ideas!
 
@@ -9,11 +9,18 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ## Main interests
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 
-* Distributes Systems & Software Architecture
+* Distributed Systems & Software Architecture
 
 * System-Level Programming & Embedded Devices
 
 * Backend Development
+
+---
+
+## 📚 What I'm reading at the moment
+
+📖 Programming: Principles and Practice Using C++ (Bjarne Stroustrup)  
+📖 Designing Data-Intensive Applications (Martin Kleppmann)
 
 ---
 
@@ -24,9 +31,9 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
     <tr style="border: none;">
       <td align="center" style="border: none;">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=arch,neovim,cpp" /><br>
+          <img src="https://skillicons.dev/icons?i=neovim,arch,cpp,cmake,bash" /><br>
           <img src="https://skillicons.dev/icons?i=go,java,rust,c" /><br>
-          <img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,aws" />
+          <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka" />
         </a>
       </td>
       <td valign="middle" style="border: none; padding-left: 25px;">

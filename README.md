@@ -1,6 +1,6 @@
 # Hey there 👋! Welcome to my profile!
 
-I'm Gustavo, a 23yo software engineer based in Brazil 🇧🇷
+I'm Gustavo, a software engineer based in Brazil 🇧🇷
 
 Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss ideas!
 
@@ -25,8 +25,12 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ---
 
 <div align="center">
+  <h2>Techs</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,arch,cpp,elixir,rust,java,kubernetes,docker,kafka,rabbitmq,bash,cmake"/>
+    <img src="https://skillicons.dev/icons?i=emacs,arch,cpp,c"/></br>
+    <img src="https://skillicons.dev/icons?i=go,elixir,java,spring"/></br>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,rabbitmq,kafka"/></br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
   </a>
 </div>
 

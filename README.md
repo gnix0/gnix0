@@ -20,7 +20,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 ## 📚 What I'm reading at the moment
 
 📖 Programming: Principles and Practice Using C++ (Bjarne Stroustrup)  
-📖 Designing Data-Intensive Applications (Martin Kleppmann)
+📖 Designing Data-Intensive Applications (Martin Kleppmann)  
 📖 Mastering Emacs (Mickey Petersen)
 
 ---

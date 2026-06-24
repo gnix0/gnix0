@@ -21,6 +21,7 @@ Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss i
 
 📖 Programming: Principles and Practice Using C++ (Bjarne Stroustrup)  
 📖 Designing Data-Intensive Applications (Martin Kleppmann)
+📖 Mastering Emacs (Mickey Petersen)
 
 ---
 

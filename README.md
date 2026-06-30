@@ -1,46 +1,37 @@
-# Hey there 👋! Welcome to my profile!
+<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Hey there! Welcome to my profile! <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
+<br>
+<p align="center">
+I'm Gustavo, a software engineer based in Brazil 🇧🇷 <br>
+Feel free to reach out if you'd like to discuss ideas!
+</p>
+<h1> </h1>
 
-I'm Gustavo, a software engineer based in Brazil 🇧🇷
+<div float="left" align="center">
+    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ Emacs ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C++ ■ Rust ■ Go ■ Java ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Distributed Systems ■ Systems Development ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
+</div>
 
-Feel free to reach out via email or DM me on LinkedIn if you'd like to discuss ideas!
-
----
-
-## Main interests
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
-
-* Distributed Systems & Software Architecture
-
-* System-Level Programming & Embedded Devices
-
-* Backend Development
-
----
-
-## 📚 What I'm reading at the moment
+## 📚 What I'm reading at the moment 📚
 
 📖 Programming: Principles and Practice Using C++ (Bjarne Stroustrup)  
 📖 Designing Data-Intensive Applications (Martin Kleppmann)  
 📖 Mastering Emacs (Mickey Petersen)
 
 ---
-
-<div align="center">
-  <h2>Techs</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=emacs,nix,cpp,c"/></br>
-    <img src="https://skillicons.dev/icons?i=go,elixir,java,spring"/></br>
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,rabbitmq,kafka"/></br>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-  </a>
-</div>
-
-</br>
-
-<div align="center">
   
 [![Blog](https://img.shields.io/badge/gustavoarantes.dev-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://gustavoarantes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgustavoa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arantes.gustavoo)
-
-</div>

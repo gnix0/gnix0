@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Hey there! Welcome to my profile! <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-I'm Gustavo, a software engineer based in Brazil 🇧🇷 <br>
+I'm Gustavo, a software engineer from Brazil 🇧🇷 <br>
 Feel free to reach out if you'd like to discuss ideas!
 </p>
 <h1> </h1>

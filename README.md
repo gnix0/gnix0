@@ -11,7 +11,7 @@ Feel free to reach out if you'd like to discuss ideas!
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ Emacs ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ Vim ■ C ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ C++ ■ Rust ■ Go ■ Java ■  &nbsp; &nbsp;  &nbsp; &nbsp;

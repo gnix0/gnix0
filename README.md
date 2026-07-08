@@ -26,9 +26,9 @@ Feel free to reach out if you'd like to discuss ideas!
 
 ## 📚 What I'm reading at the moment 📚
 
-📖 Programming: Principles and Practice Using C++ (Bjarne Stroustrup)  
-📖 Designing Data-Intensive Applications (Martin Kleppmann)  
-📖 Mastering Emacs (Mickey Petersen)
+📖 Designing Data-Intensive Applications
+📖 Mastering Emacs
+📖 Structure and Interpretation of Computer Programs
 
 ---
   

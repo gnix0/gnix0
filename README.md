@@ -26,8 +26,8 @@ Feel free to reach out if you'd like to discuss ideas!
 
 ## 📚 What I'm reading at the moment 📚
 
-📖 Designing Data-Intensive Applications
-📖 Mastering Emacs
+📖 Designing Data-Intensive Applications  
+📖 Mastering Emacs  
 📖 Structure and Interpretation of Computer Programs
 
 ---

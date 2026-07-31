@@ -11,13 +11,10 @@ Feel free to reach out if you'd like to discuss ideas!
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Emacs ■ Linux ■ C ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Emacs ■ Linux ■ C ■ C++ ■&nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C++ ■ Rust ■ Go ■ Java ■  &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br>
-       <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Distributed Systems ■ Systems Development ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Systems Development ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
@@ -26,9 +23,9 @@ Feel free to reach out if you'd like to discuss ideas!
 
 ## 📚 What I'm reading at the moment 📚
 
-📖 Designing Data-Intensive Applications  
-📖 Mastering Emacs  
-📖 Structure and Interpretation of Computer Programs
+📖 Programming: Principles and Practice Using C++  
+📖 Computer Systems: A Programmers Perspective  
+📖 C Programming: A Modern Approach
 
 ---
   

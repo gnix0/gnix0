@@ -1,8 +1,7 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Hey there! Welcome to my profile! <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-I'm Gustavo, a software engineer from Brazil 🇧🇷 <br>
-Feel free to reach out if you'd like to discuss ideas!
+I'm Gustavo. I have 1 year of experience in backend development with Java, and currently I am an intern working with embedded systems development, the field I always wanted to specialize in. Feel free to reach out if you'd like to discuss ideas!
 </p>
 <h1> </h1>
 
@@ -14,7 +13,7 @@ Feel free to reach out if you'd like to discuss ideas!
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ Emacs ■ Linux ■ C ■ C++ ■&nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Systems Development ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Firmware Development ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>

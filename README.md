@@ -1,7 +1,9 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Hey there! Welcome to my profile! <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-I'm Gustavo. I have 1 year of experience in backend development with Java and currently I'm an intern working with embedded systems development, the field I always wanted to specialize in. Feel free to reach out if you'd like to discuss ideas!
+I'm Gustavo, 23yo, and currently an intern working with embedded systems development in C! </br>
+Before that, I spent one year working on web development, specifically with backend technologies. </br>
+Feel free to reach out if you'd like to discuss ideas!
 </p>
 <h1> </h1>
 
@@ -10,10 +12,10 @@ I'm Gustavo. I have 1 year of experience in backend development with Java and cu
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Emacs ■ Linux ■ C ■ C++ ■&nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ C ■ C++ ■ Rust ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Firmware Development ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Electronics ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>

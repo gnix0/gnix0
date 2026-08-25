@@ -1,9 +1,10 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Hey there! Welcome to my profile! <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-I'm Gustavo, 23yo, and currently an intern working with embedded systems development in C! </br>
-Before that, I spent one year working on web development, specifically with backend technologies. </br>
-Feel free to reach out if you'd like to discuss ideas!
+I'm Gustavo, 23yo. I'm studying Electrical Engineering and graduating in Systems Analysis and Development.<br>
+Currently working as an embedded systems intern. Before getting into embedded, I worked as a backend developer with Java.<br>
+<br>
+Feel free to reach out if you'd like to talk about ideas, projects, or tech!
 </p>
 <h1> </h1>
 

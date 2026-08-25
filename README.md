@@ -2,7 +2,8 @@
 <br>
 <p align="center">
 I'm Gustavo, 23yo. I'm studying Electrical Engineering and graduating in Systems Analysis and Development.<br>
-Currently working as an embedded systems intern. Before getting into embedded, I worked as a backend developer with Java.<br>
+Currently working as an embedded systems intern.<br>
+Before getting into embedded, I worked as a backend developer with Java.<br>
 <br>
 Feel free to reach out if you'd like to talk about ideas, projects, or tech!
 </p>

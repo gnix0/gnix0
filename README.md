@@ -29,9 +29,3 @@ Feel free to reach out if you'd like to talk about ideas, projects, or tech!
 
 📖 Computer Systems: A Programmers Perspective  
 📖 C Programming: A Modern Approach
-
----
-  
-[![Blog](https://img.shields.io/badge/gustavoarantes.dev-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://gustavoarantes.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgustavoa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arantes.gustavoo)

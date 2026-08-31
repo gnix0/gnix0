@@ -14,7 +14,7 @@ Feel free to reach out if you'd like to talk about ideas, projects, or tech!
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ C ■ C++ ■ Rust ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ C ■ C++ ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Electronics ■ &nbsp; &nbsp;  &nbsp; &nbsp;
@@ -26,7 +26,6 @@ Feel free to reach out if you'd like to talk about ideas, projects, or tech!
 
 ## 📚 What I'm reading at the moment 📚
 
-📖 Programming: Principles and Practice Using C++  
 📖 Computer Systems: A Programmers Perspective  
 📖 C Programming: A Modern Approach
 

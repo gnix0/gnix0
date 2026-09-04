@@ -13,7 +13,10 @@ Feel free to reach out if you'd like to talk about ideas, projects, or tech!
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ C ■ C++ ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ C++ ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ FreeRTOS ■ Linux ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Electronics ■ &nbsp; &nbsp;  &nbsp; &nbsp;

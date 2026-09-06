@@ -25,8 +25,3 @@ Feel free to reach out if you'd like to talk about ideas, projects, or tech!
   <div>
     <br>
 </div>
-
-## 📚 What I'm reading at the moment 📚
-
-📖 Computer Systems: A Programmers Perspective  
-📖 C Programming: A Modern Approach

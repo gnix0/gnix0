@@ -2,7 +2,7 @@
 <br>
 <p align="center">
 I'm Gustavo, 23yo. Currently working with firmware engineering.<br>
-Also studying Electrical Engineering, while graduating in Systems Analysis and Development.<br>
+I study Computer Science, and am also graduating in Systems Analysis and Development.<br>
 <br>
 Feel free to reach out if you'd like to talk about ideas, projects, or tech!
 </p>
@@ -13,7 +13,7 @@ Feel free to reach out if you'd like to talk about ideas, projects, or tech!
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ C++ ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ C++ ■ Bash ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ RTOS ■ Bare-metal ■ &nbsp; &nbsp;  &nbsp; &nbsp;

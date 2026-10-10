@@ -13,10 +13,7 @@ Feel free to reach out if you'd like to talk about ideas, projects, or tech!
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ C++ ■ Bash ■ Python ■ &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br>
-       <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux ■ RTOS ■ Bare-metal ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ C ■ C++ ■ Bash ■ ■ Linux ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br>
        &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ Firmware ■ &nbsp; &nbsp;  &nbsp; &nbsp;

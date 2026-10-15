@@ -1,8 +1,8 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Hey there! Welcome to my profile! <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-I'm Gustavo, 23yo. Currently working with embedded systems engineering.<br>
-I study Computer Science, and am also graduating in Systems Analysis and Development.<br>
+I'm Gustavo, 23yo, an embedded systems engineer from Brazil 🇧🇷<br>
+Currently studying Computer Science, and graduating in Systems Analysis and Development<br>
 <br>
 Feel free to reach out if you'd like to talk about ideas, projects, or tech!
 </p>

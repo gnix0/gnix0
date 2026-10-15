@@ -1,10 +1,7 @@
-<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Hey there! Welcome to my profile! <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
-<br>
 <p align="center">
-I'm Gustavo, 23yo, an embedded systems engineer from Brazil 🇧🇷<br>
-Currently studying Computer Science, and graduating in Systems Analysis and Development<br>
+<i>Gustavo of House Unix, Another of His Name, the Bare-Metal, King of the Registers, the Memory, and the Cross-Compilers, King of Segmentation Faults, Warden of the Great Linux, Protector of the Stack, Lord Regnant of the Seven Tmux Sessions, Breaker of Production, and Father of Undefined Behavior</i><br>
 <br>
-Feel free to reach out if you'd like to talk about ideas, projects, or tech!
+Embedded systems engineer from Brazil 🇧🇷
 </p>
 <h1> </h1>
 

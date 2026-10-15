@@ -1,7 +1,5 @@
 <p align="center">
 <i>Gustavo of House Unix, Another of His Name, the Bare-Metal, King of the Registers, the Memory, and the Cross-Compilers, King of Segmentation Faults, Warden of the Great Linux, Protector of the Stack, Lord Regnant of the Seven Tmux Sessions, Breaker of Production, and Father of Undefined Behavior</i><br>
-<br>
-Embedded systems engineer from Brazil 🇧🇷
 </p>
 <h1> </h1>
 

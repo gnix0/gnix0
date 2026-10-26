@@ -9,7 +9,7 @@
      <br> 
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ C ■ C++ ■ Rust ■ Linux ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Embedded Systems ■ C ■ C++ ■ Linux ■ Emacs ■ &nbsp; &nbsp;  &nbsp; &nbsp;
        <br>
        <br> 
          &nbsp; &nbsp;  &nbsp; &nbsp; ■ Computer Architecture ■ Digital Electronics ■ &nbsp; &nbsp;  &nbsp; &nbsp;
